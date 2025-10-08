@@ -1,0 +1,10 @@
+{
+  "con1":{
+"textAlign":"center",
+"width":"50%",
+"borderStyle": "solid"
+  }  ,
+  "con2":{
+   "color":"red"
+  }
+}
